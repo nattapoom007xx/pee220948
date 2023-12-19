@@ -252,7 +252,7 @@ section {
 }
 
 .btn-color-2 {
-  background: none;
+  background: red;
 }
 
 .btn-color-2:hover {
@@ -400,6 +400,7 @@ article .icon {
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
+  background-color: blue;
 }
 
 .contact-info-container {
@@ -408,6 +409,7 @@ article .icon {
   justify-content: center;
   gap: 0.5rem;
   margin: 1rem;
+  
 }
 
 .contact-info-container p {
@@ -433,6 +435,13 @@ footer p {
   text-align: center;
 }
 .titlePT {
-  color: rgb(255, 0, 0)
+  color: rgb(255, 0, 0);
   font-size: 2em;      
+}
+.pp {
+  background-color: aliceblue;
+}
+.nav-links-container {
+  background-color: red;
+  padding: 2em;
 }
